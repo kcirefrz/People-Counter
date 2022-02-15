@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+
+.container{
+	max-width: 1280px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.counterSection{
+  text-align: center;
+  position: relative;
+  top: 16vh;
+}
+
+.title{
+  font-size: 50px;
+  margin-bottom: 70px;
+}
+
+.counter{
+   font-size: 100px;
+}
+
+.buttons{
+  margin-top: 60px;
+}
+
+.counting{
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.people{
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.container footer{
+  text-align: center;
+  position: relative;
+  top: 45vh;
+}
+
+.container footer span{
+  font-style: italic;
+  color: black;
+}
+
+.container footer a{
+  text-decoration: none;
+}
